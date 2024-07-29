@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c9a1597.css",
-    "main.js": "/static/js/main.b199254c.js",
+    "main.css": "/static/css/main.622359f2.css",
+    "main.js": "/static/js/main.656859d7.js",
     "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
     "static/media/Tendercuts.png": "/static/media/Tendercuts.1cf32861f24f6234b86d.png",
-    "static/media/cv.pdf": "/static/media/cv.b36e38f8ee93bbf95a18.pdf",
-    "static/media/diplay_pic.jpg": "/static/media/diplay_pic.0c756d199230c1027e63.jpg",
     "static/media/Elifestyle.png": "/static/media/Elifestyle.590dbaa16c76429de774.png",
     "static/media/Refurbay.png": "/static/media/Refurbay.0b936b418a1a78d32b18.png",
+    "static/media/pixel-city-art.gif": "/static/media/pixel-city-art.9cfa73608d8b3a0b84d4.gif",
     "static/media/GoMyTrip.png": "/static/media/GoMyTrip.286dffd6b2a8165c518e.png",
-    "static/media/pixel-city-art.gif": "/static/media/pixel-city-art.92421429b819ace34627.gif",
+    "static/media/diplay_pic.jpeg": "/static/media/diplay_pic.26f0cd11ecff838b28e6.jpeg",
+    "static/media/cv.pdf": "/static/media/cv.52a1a5e44286d5777155.pdf",
     "index.html": "/index.html",
-    "main.1c9a1597.css.map": "/static/css/main.1c9a1597.css.map",
-    "main.b199254c.js.map": "/static/js/main.b199254c.js.map",
+    "main.622359f2.css.map": "/static/css/main.622359f2.css.map",
+    "main.656859d7.js.map": "/static/js/main.656859d7.js.map",
     "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9a1597.css",
-    "static/js/main.b199254c.js"
+    "static/css/main.622359f2.css",
+    "static/js/main.656859d7.js"
   ]
 }
